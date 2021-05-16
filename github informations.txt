@@ -1,0 +1,26 @@
+Suvankar90 
+suvankar@123SD@SD
+Git is a tool & revision control system to mange your source code history.
+But Github is a hosting service for Git repositories.
+
+GITHub is a company which allows us to host a central repository in a remote server..
+
+In GITHUB new repository is for for both GIT & GITHuB..
+GIT allows you to create a local repository for the projects you work on but GITHUB allows us to create an crentral repository 
+which is used to store your projects data.
+
+* Repository is a storage space for your project.
+* commit is record changes to one or more files in your branch..GIT Assigns each commit a unique ID, called a SHA or
+hash,that identifies the specific changes.
+
+* Version control system is a software that helps an developer team to control and manage (track) all the changes have
+been made to source code and also maintin some other infomations like who has made the changes & what changes have been
+made
+
+* Types of version control system
+  1)Centralized version control system (CVCS), Eg : SVN,TFT,CVS
+  2) Distributed version control system (DVCS) Eg : GIT,GITHUB
+* Staging is a logical sepration of codes which are not required while developing
+
+
+
